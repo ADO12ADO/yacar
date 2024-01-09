@@ -4829,6 +4829,14 @@
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1f8kkrgrfd7utflvsq7xknuxtzf92nm80vkshu2/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
+    "id": "inj1fg8ffu74pm99nwd584ne3gwa9pexnh39csm7qp",
+    "name": "DEXTER",
+    "symbol": "DEXTER",
+    "decimals": "6",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1fg8ffu74pm99nwd584ne3gwa9pexnh39csm7qp/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
     "id": "inj1fghekhpfn2rfds6c466p38ttdm2a70gnzymc86",
     "name": "FusionX (Wormhole)",
     "symbol": "FusionX",
@@ -6119,6 +6127,14 @@
     "decimals": "6",
     "type": "cw20",
     "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1zc3uujkm2sfwk5x8xlrudaxwsc0t903rj2jcen/smart/eyJ0b2tlbl9pbmZvIjoge319"
+  },
+  {
+    "id": "inj1zdj9kqnknztl2xclm5ssv25yre09f8908d4923",
+    "name": "Dojo Token",
+    "symbol": "DOJO",
+    "decimals": "18",
+    "type": "cw20",
+    "total_supply_api": "https://injective-rest.publicnode.com/cosmwasm/wasm/v1/contract/inj1zdj9kqnknztl2xclm5ssv25yre09f8908d4923/smart/eyJ0b2tlbl9pbmZvIjoge319"
   },
   {
     "id": "inj1zfaug0dfg7zmd888thjx2hwuas0vl2ly4euk3r",
